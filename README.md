@@ -1,6 +1,7 @@
 # Huimin Liu
 ## Ph.D. student at Temple University
-###### The smallest heading
+###### Fox School of Business
+###### School of Sport, Tourism and Hospitality Management
 
 ## Bio
 
