@@ -1,10 +1,10 @@
 # Huimin Liu
 ## Ph.D. student at Temple University
 ###### Fox School of Business
-###### School of Sport, Tourism and Hospitality Management
-###### Department of Tourism and Hospitality Management
-###### Ph.D. Student in Business Administration with Concentration in Tourism and Sport
-###### huiminliu@temple.edu
+School of Sport, Tourism and Hospitality Management
+Department of Tourism and Hospitality Management
+Ph.D. Student in Business Administration with Concentration in Tourism and Sport
+Please contact: huiminliu@temple.edu
 
 ## Bio
 
@@ -22,7 +22,9 @@ Huimin Liu’s current research interests include tourist experience, online and
 
 
 ## Research
+* Trauma in tourism and hospitality contexts
 
+* Omnichannel experience
 
 ## Teaching
 Instructor of THM 4322 Designing Tourism Experiences (in-person) for 2022 Fall
@@ -33,13 +35,12 @@ Instructor of STHM 4401 Digital Portfolio Creation (asynchronous) for 2023 Sprin
 Philadelphia International Airport Passenger Survey Project
 
 
-![This is an image](https://ibb.co/zrr8jWT)
-
+## Online Portfolio
 
  [Linkedin](https://www.linkedin.com/in/huimin-liu-245409178/).
  
  [School Website](https://www.fox.temple.edu/directory/huimin-liu).
 
 
-![This is an image](https://www.google.com/search?q=huiminliu&rlz=1C5CHFA_enUS1005US1006&oq=huiminliu&aqs=chrome..69i57j0i13i512l3j0i13i30i625l4j0i8i13i30j0i8i13i30i625.3065j0j15&sourceid=chrome&ie=UTF-8#imgrc=-3dUMpMY_PXBqM)
+
 
