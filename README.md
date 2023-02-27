@@ -65,7 +65,15 @@ I work as a major research assistant in this project from July 2021 to now. I pa
 
 I worked as an intern at UNWTO International Network of Sustainable Tourism Observatories in July, September and October 2018 in tourism destinations Xishuangbanna, Yunnan and Kanas, Xinjiang, China. I collaborated with my team members and conducted onsite obeservation, interview and questionnaire survey and wrote reports on destination sustainability.
 ![IMG_5825 2](https://user-images.githubusercontent.com/70120727/221651270-0ca6dc22-bf2d-4246-bbb2-f4111af82ee5.JPG)
-![IMG_3612](https://user-images.githubusercontent.com/70120727/221651507-cdd6cd16-4151-4aab-abba-596af1509432.JPG)
+![IMG_7869](https://user-images.githubusercontent.com/70120727/221652992-d16f3a4f-2987-420e-82da-7b382e7d17e8.JPG)
+
+* [BES Culture Tourism Group](http://www.bescn.com/)
+
+I worked as an intern at BES Culture Tourism Group in Beijing, China in July 2017. I helped design tourism planning reports for tourism destinations.
+
+
+
+
 
 
 
