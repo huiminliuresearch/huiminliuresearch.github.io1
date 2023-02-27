@@ -1,5 +1,5 @@
 # Huimin Liu
-## Ph.D. student at Temple University
+###### Ph.D. student at Temple University
 ###### Fox School of Business
 School of Sport, Tourism and Hospitality Management
 
