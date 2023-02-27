@@ -38,13 +38,13 @@ Huimin Liu’s current research interests include tourist experience, online and
 ## Research
 * Trauma in tourism and hospitality contexts
 
-•	Liu, H., Li, X. (2023). Does Traumatic Experience Prohibit Travel? Impact of Pandemic Trauma on Prevention-Focused Travel Behavior [oral presentation]. the 28th Annual Graduate Conference in Hospitality and Tourism, Orange, United States.
+   •	Liu, H., Li, X. (2023). Does Traumatic Experience Prohibit Travel? Impact of Pandemic Trauma on Prevention-Focused Travel Behavior [oral presentation]. the 28th Annual Graduate Conference in Hospitality and Tourism, Orange, United States.
 
-•	Liu, H., Li, X. (2022). Does Traumatic Experience Prohibit Travel? Impact of Centrality of Traumatic Event on Travel Fear during the Pandemic [poster presentation]. the 2022 TTRA International Conference Academic Program, Victoria, Canada. 
+   •	Liu, H., Li, X. (2022). Does Traumatic Experience Prohibit Travel? Impact of Centrality of Traumatic Event on Travel Fear during the Pandemic [poster presentation]. the 2022 TTRA International Conference Academic Program, Victoria, Canada. 
 
 * Omnichannel experience
 
-•	Liu, H., Li, X. (2022). Exploring Experience Measurements in Tourism Research [poster presentation]. the 2022 TTRA International Conference Academic Program, Victoria, Canada. 
+   •	Liu, H., Li, X. (2022). Exploring Experience Measurements in Tourism Research [poster presentation]. the 2022 TTRA International Conference Academic Program, Victoria, Canada. 
 ## Teaching
 * Instructor of THM 4322 Designing Tourism Experiences (in-person) 
 
@@ -59,7 +59,15 @@ I am teaching this course under the mentorship of Professor [Christine Cleaver](
 ## Professional Experience
 * [Philadelphia International Airport Passenger Survey Project](https://news.temple.edu/2022-04-29/temple-students-complete-passenger-survey-philadelphia-international-airport)
 
-I work as a major research assistant in this project. I participated in every steps of this project from proposal design, questionnaire design, onsite survey, data analysis to report writing.
+I work as a major research assistant in this project from July 2021 to now. I participated in every steps of this project from proposal design, questionnaire design, onsite survey, data analysis to report writing.
+
+* [Monitoring Center of UNWTO Sustainable Tourism Observatories](https://www.unwto.org/sustainable-development/unwto-international-network-of-sustainable-tourism-observatories)
+
+I worked as an intern at UNWTO International Network of Sustainable Tourism Observatories in July, September and October 2018 in tourism destinations Xishuangbanna, Yunnan and Kanas, Xinjiang, China. I collaborated with my team members and conducted onsite obeservation, interview and questionnaire survey and wrote reports on destination sustainability.
+![IMG_5825 2](https://user-images.githubusercontent.com/70120727/221651270-0ca6dc22-bf2d-4246-bbb2-f4111af82ee5.JPG)
+![IMG_3612](https://user-images.githubusercontent.com/70120727/221651507-cdd6cd16-4151-4aab-abba-596af1509432.JPG)
+
+
 
 
 
