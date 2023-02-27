@@ -1,5 +1,5 @@
 # Huimin Liu
-###### Ph.D. Student in Business Administration with Concentration in Tourism and Sport at [Temple University](https://www.temple.edu/)
+###### Ph.D. Student in Business Administration with Concentration of Tourism and Sport at [Temple University](https://www.temple.edu/)
 [Fox School of Business](https://www.fox.temple.edu/)
 
 [School of Sport, Tourism and Hospitality Management](https://sthm.temple.edu/)
