@@ -1,4 +1,5 @@
 # Huimin Liu
+Hello there! Welcome to my personal website!
 ![IMG_6060 2](https://user-images.githubusercontent.com/70120727/221622049-652f5895-56c3-42e2-8a65-0811c0ebb0dd.JPG)
 
 ###### Ph.D. Student in Business Administration with Concentration of Tourism and Sport at [Temple University](https://www.temple.edu/)
