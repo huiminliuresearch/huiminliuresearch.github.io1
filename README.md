@@ -26,6 +26,7 @@ Huimin Liu’s current research interests include tourist experience, online and
 
 ## Teaching
 Instructor of THM 4322 Designing Tourism Experiences (in-person) for 2022 Fall
+
 Instructor of STHM 4401 Digital Portfolio Creation (asynchronous) for 2023 Spring
 
 ## Industrial Project
@@ -34,7 +35,7 @@ Philadelphia International Airport Passenger Survey Project
 
 ![This is an image](https://ibb.co/zrr8jWT)
 
-This site was built using [GitHub Pages](https://pages.github.com/).
+[Linkedin](https://pages.github.com/](https://www.linkedin.com/in/huimin-liu-245409178/).
 
 
 ![This is an image](https://www.google.com/search?q=huiminliu&rlz=1C5CHFA_enUS1005US1006&oq=huiminliu&aqs=chrome..69i57j0i13i512l3j0i13i30i625l4j0i8i13i30j0i8i13i30i625.3065j0j15&sourceid=chrome&ie=UTF-8#imgrc=-3dUMpMY_PXBqM)
