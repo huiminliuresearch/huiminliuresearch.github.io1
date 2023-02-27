@@ -2,8 +2,11 @@
 ## Ph.D. student at Temple University
 ###### Fox School of Business
 School of Sport, Tourism and Hospitality Management
+
 Department of Tourism and Hospitality Management
+
 Ph.D. Student in Business Administration with Concentration in Tourism and Sport
+
 Please contact: huiminliu@temple.edu
 
 ## Bio
