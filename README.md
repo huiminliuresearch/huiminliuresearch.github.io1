@@ -15,14 +15,7 @@ Huimin Liu’s current research interests include tourist experience, online and
 | M.S.          | 2017-2020     |  Sun Yat-sen University |
 | B.B.A.        | 2013-2017     |  Shandong University |
 
-There must be at least 3 dashes separating each header cell.
-The outer pipes (|) are optional, and you don't need to make the 
-raw Markdown line up prettily. You can also use inline Markdown.
 
-Markdown | Less | Pretty
---- | --- | ---
-*Still* | `renders` | **nicely**
-1 | 2 | 3
 
 ## Research
 
