@@ -43,7 +43,7 @@ I taught this course independently in 2022 Fall. This course presents an overvie
 
 I am teaching this course under the mentorship of Professor [Christine Cleaver](https://sthm.temple.edu/faculty-and-staff/profile/?smid=1828) in 2023 Spring. This is a required course for Event and Entertainment Management major. Students will create an online digital portfolio. A portfolio showcases both student achievement and student learning over their time at STHM. The Digital Portfolios will provide a window into student learning of both theory and experiential projects.
 
-## Industrial Project
+## Professional Experience
 * [Philadelphia International Airport Passenger Survey Project](https://news.temple.edu/2022-04-29/temple-students-complete-passenger-survey-philadelphia-international-airport)
 
 I work as a major research assistant in this project. I participated in every steps of this project from proposal design, questionnaire design, onsite survey, data analysis to report writing.
