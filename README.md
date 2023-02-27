@@ -2,6 +2,37 @@
 ## Ph.D. student at Temple University
 ###### The smallest heading
 
+## Bio
+
+Huimin Liu’s current research interests include tourist experience, online and offline tourist behavior, and trauma in tourism contexts. She has experience using multiple research methods, such as experimental methods, difference-in-differences analysis, meta-analysis, and structural equation modeling. Additionally, she has participated in various academic and professional research projects.
+
+
+## Education
+
+| Degree        | Year          | School  |
+| ------------- |:-------------:| -----:|
+| Ph.D.         | 2020-now      |  Temple University |
+| M.S.          | 2017-2020     |  Sun Yat-sen University |
+| B.B.A.        | 2013-2017     |  Shandong University |
+
+There must be at least 3 dashes separating each header cell.
+The outer pipes (|) are optional, and you don't need to make the 
+raw Markdown line up prettily. You can also use inline Markdown.
+
+Markdown | Less | Pretty
+--- | --- | ---
+*Still* | `renders` | **nicely**
+1 | 2 | 3
+
+## Research
+
+
+## Teaching
+
+
+## Industrial Project
+
+
 
 ![This is an image](https://ibb.co/zrr8jWT)
 
