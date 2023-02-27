@@ -18,6 +18,12 @@ Please contact: huiminliu@temple.edu
 
 Huimin Liu’s current research interests include tourist experience, online and offline tourist behavior, and trauma in tourism contexts. She has experience using multiple research methods, such as experimental methods, difference-in-differences analysis, meta-analysis, and structural equation modeling. Additionally, she has participated in various academic and professional research projects.
 
+## Online Portfolio
+
+ * [Linkedin](https://www.linkedin.com/in/huimin-liu-245409178/).
+ 
+ * [School Website](https://www.fox.temple.edu/directory/huimin-liu).
+ 
 
 ## Education
 
@@ -56,11 +62,7 @@ I am teaching this course under the mentorship of Professor [Christine Cleaver](
 I work as a major research assistant in this project. I participated in every steps of this project from proposal design, questionnaire design, onsite survey, data analysis to report writing.
 
 
-## Online Portfolio
 
- * [Linkedin](https://www.linkedin.com/in/huimin-liu-245409178/).
- 
- * [School Website](https://www.fox.temple.edu/directory/huimin-liu).
 
 
 
