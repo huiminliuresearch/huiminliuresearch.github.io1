@@ -1,7 +1,8 @@
 # Huimin Liu
 ###### Ph.D. Student at Temple University
-Fox School of Business
-School of Sport, Tourism and Hospitality Management
+[Fox School of Business](https://www.fox.temple.edu/)
+
+[School of Sport, Tourism and Hospitality Management](https://sthm.temple.edu/)
 
 Department of Tourism and Hospitality Management
 
@@ -18,9 +19,9 @@ Huimin Liu’s current research interests include tourist experience, online and
 
 | Degree        | Year          | School  |
 | ------------- |:-------------:| -----:|
-| Ph.D.         | 2020-now      |  Temple University |
-| M.S.          | 2017-2020     |  Sun Yat-sen University |
-| B.B.A.        | 2013-2017     |  Shandong University |
+| Ph.D.         | 2020-now      |  [Temple University](https://www.temple.edu/) |
+| M.S.          | 2017-2020     |  [Sun Yat-sen University](https://www.sysu.edu.cn/sysuen/) |
+| B.B.A.        | 2013-2017     |  [Shandong University](https://en.sdu.edu.cn/) |
 
 
 
