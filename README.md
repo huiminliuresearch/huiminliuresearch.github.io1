@@ -19,7 +19,7 @@ Huimin Liu’s current research interests include tourist experience, online and
 ## Education
 
 | Degree        | Year          | School  |
-| ------------- |:-------------:| -----:|
+| ------------- |:-------------| :-----|
 | Ph.D.         | 2020-Now      |  [Temple University](https://www.temple.edu/) |
 | M.S.          | 2017-2020     |  [Sun Yat-sen University](https://www.sysu.edu.cn/sysuen/) |
 | B.B.A.        | 2013-2017     |  [Shandong University](https://en.sdu.edu.cn/) |
