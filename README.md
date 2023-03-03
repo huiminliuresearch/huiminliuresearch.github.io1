@@ -39,6 +39,7 @@ Huimin Liu’s current research interests include tourist experience, online and
 * Trauma in tourism and hospitality contexts
 
    •	Liu, H., Li, X. (2023). Does Traumatic Experience Prohibit Travel? Impact of Pandemic Trauma on Prevention-Focused Travel Behavior [oral presentation]. the 28th Annual Graduate Conference in Hospitality and Tourism, Orange, United States.
+   
    •	Liu, H., Li, X. (2022). Does Traumatic Experience Prohibit Travel? Impact of Centrality of Traumatic Event on Travel Fear during the Pandemic [poster presentation]. the 2022 TTRA International Conference Academic Program, Victoria, Canada. 
    ![IMG_2990](https://user-images.githubusercontent.com/70120727/222830830-36556dd8-10a6-4514-a83f-c07b7b74cf39.JPG)
 * Omnichannel experience
