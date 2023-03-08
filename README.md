@@ -103,7 +103,10 @@ I worked as an intern at BES Culture Tourism Group in Beijing, China in July 201
 
 ## More About Me
 
-I love urban dance and am a member of Temple Dance Force.
+I was born and raised in Handan, Hebei, China. 
+I play the flute and do urban dance (a member of [Temple Dance Force](https://www.youtube.com/@templedanceforce)). 
+I'm also a proud parent of my cat Laszlo🐱, who brings so much joy and companionship into my life.
+As an INFP-T, I value creativity, authenticity, and empathy, and I try to incorporate those values into every aspect of my life.
 
 <a name="Let's-Talk"/>
 
@@ -112,7 +115,6 @@ I love urban dance and am a member of Temple Dance Force.
 Want to connect? My inbox is always open! 
 
 huiminliu@temple.edu
-
 
 Glad to grab a coffee☕️ and meet in person as well!
 
