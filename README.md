@@ -1,4 +1,4 @@
-# Huimin Liu
+# Huimin Liu    刘慧敏  
 Hello there! Welcome to my personal website!
 
 ![IMG_6060 2](https://user-images.githubusercontent.com/70120727/221622049-652f5895-56c3-42e2-8a65-0811c0ebb0dd.JPG)
