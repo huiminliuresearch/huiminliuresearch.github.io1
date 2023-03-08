@@ -1,8 +1,11 @@
-# Huimin Liu    刘慧敏  
-Hello there! Welcome to my personal website!
+Huimin Liu    刘慧敏  
+-----
+Hello there👋! Welcome to my website!
+
 
 ![IMG_6060 2](https://user-images.githubusercontent.com/70120727/221622049-652f5895-56c3-42e2-8a65-0811c0ebb0dd.JPG)
 
+ 
 ###### Ph.D. Student in Business Administration with Concentration of Tourism and Sport at [Temple University](https://www.temple.edu/)
 [Fox School of Business](https://www.fox.temple.edu/)
 
@@ -12,18 +15,18 @@ Department of Tourism and Hospitality Management
 
 335 Speakman Hall, 1810 North 13th Street Philadelphia, PA, United States 19122 
 
-Please contact: huiminliu@temple.edu
+Email: huiminliu@temple.edu
 
 ---
 ##### *Table of Contents*  
 [*Bio*](#Bio)  
-[*Online Portfolio*](#Online-Portfolio) 
-[*Education*](#Education)  
-[*Research*](#Research) 
-[*Teaching*](#Teaching)  
-[*Professional Experience*](#Professional-Experience)
-
-[*More About Me*](#More-About-Me) 
+[*Online Portfolio*](#Online-Portfolio)     
+[*Education*](#Education)     
+[*Research*](#Research)     
+[*Teaching*](#Teaching)      
+[*Professional Experience*](#Professional-Experience)        
+[*More About Me*](#More-About-Me)       
+[*Let's Talk*](#Let's-Talk) 
 
 
 ---
@@ -102,7 +105,15 @@ I worked as an intern at BES Culture Tourism Group in Beijing, China in July 201
 
 I love urban dance and am a member of Temple Dance Force.
 
+<a name="Let's-Talk"/>
 
+## Let's Talk
+
+Want to connect? My inbox is always open! 
+
+huiminliu@temple.edu
+
+Glad to grab a coffee☕️ and meet in person as well!
 
 
 
