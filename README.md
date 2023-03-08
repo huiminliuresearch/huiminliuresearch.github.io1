@@ -51,9 +51,9 @@ Huimin Liu’s current research interests include tourist experience, online and
 
 | Degree        | Year          | School  |
 | ------------- |:-------------| :-----|
-| Ph.D.         | 2020-Now      |  [Temple University](https://www.temple.edu/) |
-| M.S.          | 2017-2020     |  [Sun Yat-sen University](https://www.sysu.edu.cn/sysuen/) |
-| B.B.A.        | 2013-2017     |  [Shandong University](https://en.sdu.edu.cn/) |
+| Ph.D.         | 2020-Now      |  [Temple University](https://www.temple.edu/), Philadelphia, the U.S. |
+| M.S.          | 2017-2020     |  [Sun Yat-sen University](https://www.sysu.edu.cn/sysuen/), Zhuhai, China |
+| B.B.A.        | 2013-2017     |  [Shandong University](https://en.sdu.edu.cn/), Jinan, China |
 
 <a name="Research"/>
 
@@ -103,7 +103,7 @@ I worked as an intern at BES Culture Tourism Group in Beijing, China in July 201
 
 ## More About Me
 
-I was born and raised in Handan, Hebei, China. 
+I was born and raised in Handan, Hebei, China. I speak Mandarin and English.
 I play the flute and do urban dance (a member of [Temple Dance Force](https://www.youtube.com/@templedanceforce)). 
 I'm also a proud parent of my cat Laszlo🐱, who brings so much joy and companionship into my life.
 As an INFP-T, I value creativity, authenticity, and empathy, and I try to incorporate those values into every aspect of my life.
