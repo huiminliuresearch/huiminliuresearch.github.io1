@@ -14,9 +14,27 @@ Department of Tourism and Hospitality Management
 
 Please contact: huiminliu@temple.edu
 
+---
+##### *Table of Contents*  
+[*Bio*](#Bio)  
+[*Online Portfolio*](#Online-Portfolio) 
+[*Education*](#Education)  
+[*Research*](#Research) 
+[*Teaching*](#Teaching)  
+[*Professional Experience*](#Professional-Experience)
+
+[*More About Me*](#More-About-Me) 
+
+
+---
+
+<a name="Bio"/>
+
 ## Bio
 
 Huimin Liu’s current research interests include tourist experience, online and offline tourist behavior, and trauma in tourism contexts. She has experience using multiple research methods, such as experimental methods, difference-in-differences analysis, meta-analysis, and structural equation modeling. Additionally, she has participated in various academic and professional research projects.
+
+<a name="Online-Portfolio"/>
 
 ## Online Portfolio
 
@@ -24,6 +42,7 @@ Huimin Liu’s current research interests include tourist experience, online and
  
  * [School Website](https://www.fox.temple.edu/directory/huimin-liu).
  
+<a name="Education"/>
 
 ## Education
 
@@ -33,7 +52,7 @@ Huimin Liu’s current research interests include tourist experience, online and
 | M.S.          | 2017-2020     |  [Sun Yat-sen University](https://www.sysu.edu.cn/sysuen/) |
 | B.B.A.        | 2013-2017     |  [Shandong University](https://en.sdu.edu.cn/) |
 
-
+<a name="Research"/>
 
 ## Research
 * Trauma in tourism and hospitality contexts
@@ -47,6 +66,8 @@ Huimin Liu’s current research interests include tourist experience, online and
    •	Liu, H., Li, X. (2022). Exploring Experience Measurements in Tourism Research [poster presentation]. the 2022 TTRA International Conference Academic Program, Victoria, Canada. 
    ![IMG_3660](https://user-images.githubusercontent.com/70120727/222831342-8a7dd1c9-d30a-4c20-98e9-52eb63bf2719.JPG)
 
+<a name="Teaching"/>
+
 ## Teaching
 * Instructor of THM 4322 Designing Tourism Experiences (in-person) 
 
@@ -57,6 +78,8 @@ I taught this course independently in 2022 Fall. This course presents an overvie
 * Instructor of STHM 4401 Digital Portfolio Creation (asynchronous) 
 
 I am teaching this course under the mentorship of Professor [Christine Cleaver](https://sthm.temple.edu/faculty-and-staff/profile/?smid=1828) in 2023 Spring. This is a required course for Event and Entertainment Management major. Students will create an online digital portfolio. A portfolio showcases both student achievement and student learning over their time at STHM. The Digital Portfolios will provide a window into student learning of both theory and experiential projects.
+
+<a name="Professional-Experience"/>
 
 ## Professional Experience
 * [Philadelphia International Airport Passenger Survey Project](https://news.temple.edu/2022-04-29/temple-students-complete-passenger-survey-philadelphia-international-airport)
@@ -73,7 +96,11 @@ I worked as an intern at UNWTO International Network of Sustainable Tourism Obse
 
 I worked as an intern at BES Culture Tourism Group in Beijing, China in July 2017. I helped design tourism planning reports for tourism destinations.
 
+<a name="More-About-Me"/>
 
+## More About Me
+
+I love urban dance and am a member of Temple Dance Force.
 
 
 
