@@ -112,7 +112,7 @@ I worked as an intern at BES Culture Tourism Group in Beijing, China in July 201
 ## More About Me
 
 I was born and raised in Handan, Hebei, China. I speak Mandarin and English.
-I play the flute and do urban dance (a member of [Temple Dance Force](https://www.youtube.com/@templedanceforce)). 
+I play the flute and do urban dance💃 (a member of [Temple Dance Force](https://www.youtube.com/@templedanceforce)). 
 I'm also a proud parent of my cat Laszlo🐱, who brings so much joy and companionship into my life.
 As an INFP-T, I value creativity, authenticity, and empathy, and I try to incorporate those values into every aspect of my life.
 
@@ -120,7 +120,7 @@ As an INFP-T, I value creativity, authenticity, and empathy, and I try to incorp
 
 ## Let's Talk
 
-Want to connect? My inbox is always open! 
+Want to connect? My inbox is always open! 😊
 
 huiminliu@temple.edu
 
