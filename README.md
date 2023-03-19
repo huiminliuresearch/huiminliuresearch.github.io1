@@ -53,6 +53,8 @@ Huimin Liu’s current research interests include tourist experience, online and
  
  * [School Website](https://www.fox.temple.edu/directory/huimin-liu).
  
+ * CV
+ 
 <a name="Education"/>
 
 ## Education
