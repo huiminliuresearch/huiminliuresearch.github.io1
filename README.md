@@ -63,7 +63,7 @@ Huimin Liu’s current research interests include tourist experience, online and
 | ------------- |:-------------| :-----|
 | Ph.D.         | 2020-Now      |  [Temple University](https://www.temple.edu/), Philadelphia, the U.S. |
 | M.S.          | 2017-2020     |  [Sun Yat-sen University](https://www.sysu.edu.cn/sysuen/), Zhuhai, China |
-| Exchange Program| 2015     |  [University of South Australia](https://www.sysu.edu.cn/sysuen/), Adelaide, Australia |
+| Exchange Program| 2015       |  [University of South Australia](https://www.sysu.edu.cn/sysuen/), Adelaide, Australia |
 | B.B.A.        | 2013-2017     |  [Shandong University](https://en.sdu.edu.cn/), Jinan, China |
 
 <a name="Research"/>
