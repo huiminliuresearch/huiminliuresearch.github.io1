@@ -26,7 +26,7 @@ Email: huiminliu@temple.edu
 
 
 ---
-### *Table of Contents*  
+### *Site Map*  
 [*Bio*](#Bio)  
 [*Online Portfolio*](#Online-Portfolio)     
 [*Education*](#Education)     
