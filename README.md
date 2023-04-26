@@ -68,6 +68,7 @@ Huimin Liu’s current research interests include tourist experience, online and
 
 <a name="Research"/>
 
+
 ## Research
 * **Trauma in tourism and hospitality contexts**
 
