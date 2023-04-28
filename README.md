@@ -62,6 +62,7 @@ Huimin Liu’s current research interests include tourist experience, online and
 | Degree        | Year          | School  |
 | ------------- |:-------------| :-----|
 | Ph.D. in Business Administration | 2020-Now      |  [Temple University](https://www.temple.edu/), Philadelphia, the U.S. |
+| M.S. in Computer Science| 2022-Now     |  [Georgia Institute of Technology](https://www.gatech.edu/), Atlanta, Georgia |
 | M.S. in Tourism Management| 2017-2020     |  [Sun Yat-sen University](https://www.sysu.edu.cn/sysuen/), Zhuhai, China |
 | Exchange Program| 2015       |  [University of South Australia](https://www.unisa.edu.au/), Adelaide, Australia |
 | B.B.A.        | 2013-2017     |  [Shandong University](https://en.sdu.edu.cn/), Jinan, China |
