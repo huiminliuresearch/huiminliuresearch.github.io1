@@ -32,7 +32,8 @@ Email: huiminliu@temple.edu
 [*Education*](#Education)     
 [*Research*](#Research)     
 [*Teaching*](#Teaching)      
-[*Professional Experience*](#Professional-Experience)        
+[*Professional Experience*](#Professional-Experience)   
+[*Personal Commitment Against Workplace Harassment*](#Personal-Commitment-Against-Workplace-Harassment)   
 [*More About Me*](#More-About-Me)       
 [*Let's Talk*](#Let's-Talk) 
 
@@ -111,6 +112,12 @@ I worked as an intern at UNWTO International Network of Sustainable Tourism Obse
 * [BES Culture Tourism Group](http://www.bescn.com/)
 
 I worked as an intern at BES Culture Tourism Group in Beijing, China in July 2017. I helped design tourism planning reports for tourism destinations.
+
+<a name="Personal-Commitment-Against-Workplace-Harassment"/>
+
+## Personal Commitment Against Workplace Harassment
+
+I am deeply committed to fostering a workplace environment free from harassment of any kind. I firmly stand against all forms of mistreatment, including sexual harassment, bullying, Abuse of Power, and any other abusive conduct. I will not tolerate workplace harassment and will take a proactive stand to promote a culture of respect, dignity, and inclusivity for all. Together, we can create a safe and supportive workplace where everyone can thrive without fear of harassment or discrimination.
 
 <a name="More-About-Me"/>
 
