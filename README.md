@@ -117,7 +117,7 @@ I worked as an intern at BES Culture Tourism Group in Beijing, China in July 201
 
 ## Personal Commitment Against Workplace Harassment
 
-I am deeply committed to fostering a workplace environment free from harassment of any kind. I firmly stand against all forms of mistreatment, including sexual harassment, bullying, Abuse of Power, and any other abusive conduct. I will not tolerate workplace harassment and will take a proactive stand to promote a culture of respect, dignity, and inclusivity for all. Together, we can create a safe and supportive workplace where everyone can thrive without fear of harassment or discrimination.
+I am deeply committed to fostering a workplace environment free from harassment of any kind. I firmly stand against all forms of mistreatment, including sexual harassment, bullying, abuse of power, and any other abusive conduct. I will not tolerate workplace harassment and will take a proactive stand to promote a culture of respect, dignity, and inclusivity for all. Together, we can create a safe and supportive workplace where everyone can thrive without fear of harassment or discrimination.
 
 <a name="More-About-Me"/>
 
